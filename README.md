@@ -3,4 +3,7 @@ Demo for Github intro.
 Some description
 
 # Subheader
-Watch tutorial on youtubeg
+Watch tutorials on youtube
+
+## Local Development 
+1. open index.html
